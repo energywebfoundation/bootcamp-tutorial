@@ -14,9 +14,9 @@ This is derived from the [Open Zeppelin (TutorialToken) tutorial](http://truffle
     git clone https://github.com/energywebfoundation/bootcamp-tutorial.git
     ```
 
-3. Add the OpenZeppelin library including their ERC20 implementation
+3. Add the OpenZeppelin library including their ERC20 implementation and install lite-server
     ```javascript
-    npm install openzeppelin-solidity
+    npm install openzeppelin-solidity lite-server
     ```
 
 4. Compile and migrate the smart contracts. 
